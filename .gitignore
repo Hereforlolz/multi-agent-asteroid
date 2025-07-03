@@ -12,6 +12,8 @@ build/
 .eggs/
 *.manifest
 *.spec
+de421.bsp
+
 
 # Jupyter / notebooks
 .ipynb_checkpoints
